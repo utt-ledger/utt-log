@@ -1,0 +1,86 @@
+Title: UTT Entry Schema
+Version: 0.1
+Status: Draft
+Subordinate to: UTT Charter v0.2
+Constrained by: Philosophy Framework v0.5 (working title)
+
+UTT ENTRY SCHEMA
+Tier-1.5 Artefact — Draft v0.1
+
+1. What the Entry Schema Is
+The Entry Schema defines how entries are written, not what is true.
+It constrains format, not judgement.
+
+2. Core Design Rules (Non-Negotiable)
+Every UTT entry must:
+- be append-only
+- have a single explicit scope
+- declare its status
+- reference what it supersedes (if anything)
+- separate recorded fact from contextual rationale
+- be readable without external explanation
+
+3. Required Fields (All Entries)
+
+3.1 Entry ID
+Unique identifier.
+Recommended format:
+UTT-YYYY-NNNNNN
+Example:
+UTT-2025-000001
+
+3.2 Entry Type
+One of:
+- Artefact
+- Decision
+- Recognition
+- Revision
+- Deprecation
+- Incident
+
+3.3 Title
+Neutral, descriptive label.
+
+3.4 Timestamp
+ISO format (YYYY-MM-DD).
+
+3.5 Scope
+Narrowly bounded applicability.
+
+3.6 Status
+One of:
+- Provisional
+- Stable
+- Superseded
+- Deprecated
+
+3.7 Supersedes
+Reference to earlier entry IDs, or None.
+
+3.8 Recorded Fact
+Single past-tense factual statement of what was logged.
+
+3.9 Contextual Rationale (Optional)
+Minimal historical context only.
+
+3.10 References (Optional)
+Pointers to external artefacts.
+
+4. Entry Types (Clarified)
+Artefact, Decision, Recognition, Revision, Deprecation, Incident.
+
+5. Explicit Exclusions
+- no voting fields
+- no confidence scores
+- no criteria checklists
+- no agent-authored consolidation
+- no authority attribution
+
+6. Canonical Storage
+One entry per plain-text file:
+UTT-2025-000001.txt
+
+7. Status
+This schema is Draft v0.1 and must be tested before stabilisation.
+
+END OF SCHEMA — v0.1
