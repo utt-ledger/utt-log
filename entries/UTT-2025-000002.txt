@@ -1,0 +1,16 @@
+UTT Entry ID: UTT-2025-000002
+Entry Type: Artefact
+Title: UTT Charter v0.2 recorded as governing constraint for the Unified Thread of Truth
+Timestamp: 2025-12-13
+Scope: Unified Thread of Truth (UTT) only
+Status: Provisional
+Supersedes: None
+
+Recorded Fact:
+This entry records that UTT Charter v0.2 was treated as the governing operating constraint for the Unified Thread of Truth.
+
+Contextual Rationale:
+This was logged to establish clarity on the constraint set applied to the UTT prior to any log activation.
+
+References:
+UTT_Charter_v0.2.txt

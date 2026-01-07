@@ -1,0 +1,16 @@
+UTT Entry ID: UTT-2025-000004
+Entry Type: Artefact
+Title: UTT Entry Schema v0.1 recorded as draft schema for UTT entries
+Timestamp: 2025-12-13
+Scope: Unified Thread of Truth (UTT) entry formatting only
+Status: Provisional
+Supersedes: None
+
+Recorded Fact:
+This entry records that UTT Entry Schema v0.1 was treated as the draft schema governing the format of Unified Thread of Truth entries.
+
+Contextual Rationale:
+This was logged to ensure consistency and auditability of UTT entries prior to further log expansion.
+
+References:
+UTT_Entry_Schema_v0.1.txt

@@ -1,0 +1,16 @@
+UTT Entry ID: UTT-2025-000001
+Entry Type: Artefact
+Title: Philosophy Framework v0.5 recorded as current working substrate
+Timestamp: 2025-12-13
+Scope: Philosophy Framework artefacts only
+Status: Provisional
+Supersedes: None
+
+Recorded Fact:
+This entry records that Philosophy Framework v0.5 was treated as the current working substrate while under external human peer review.
+
+Contextual Rationale:
+This was logged to prevent ambiguity regarding which philosophy version constrained subsequent artefacts during this period.
+
+References:
+Philosophy_Framework_v0.5.txt

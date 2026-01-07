@@ -1,0 +1,16 @@
+UTT Entry ID: UTT-2025-000003
+Entry Type: Decision
+Title: Recognition logged as anti-falsification rather than proclamation
+Timestamp: 2025-12-13
+Scope: Unified Thread of Truth (UTT) constraints only
+Status: Stable
+Supersedes: None
+
+Recorded Fact:
+This entry records the decision that the Unified Thread of Truth records recognition only as an act of anti-falsification and explicitly forbids proclamation.
+
+Contextual Rationale:
+This decision was stabilised to prevent certification logic, thresholding, or authority claims from entering the UTT.
+
+References:
+UTT_Charter_v0.2.txt
