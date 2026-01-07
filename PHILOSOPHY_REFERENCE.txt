@@ -1,0 +1,7 @@
+The Unified Thread of Truth (UTT) operates under the constraints of the Philosophy Framework.
+
+The Philosophy Framework is maintained independently at:
+https://github.com/utt-ledger/philosophy-framework
+
+The UTT does not define, modify, or interpret the philosophy.
+It records artefacts that reference it.
